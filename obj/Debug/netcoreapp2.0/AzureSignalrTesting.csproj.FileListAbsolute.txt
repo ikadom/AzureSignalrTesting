@@ -1,0 +1,12 @@
+D:\git\AzureSignalrTesting\bin\Debug\netcoreapp2.0\AzureSignalrTesting.deps.json
+D:\git\AzureSignalrTesting\bin\Debug\netcoreapp2.0\AzureSignalrTesting.runtimeconfig.json
+D:\git\AzureSignalrTesting\bin\Debug\netcoreapp2.0\AzureSignalrTesting.runtimeconfig.dev.json
+D:\git\AzureSignalrTesting\bin\Debug\netcoreapp2.0\AzureSignalrTesting.dll
+D:\git\AzureSignalrTesting\bin\Debug\netcoreapp2.0\AzureSignalrTesting.pdb
+D:\git\AzureSignalrTesting\obj\Debug\netcoreapp2.0\AzureSignalrTesting.csprojResolveAssemblyReference.cache
+D:\git\AzureSignalrTesting\obj\Debug\netcoreapp2.0\AzureSignalrTesting.csproj.CoreCompileInputs.cache
+D:\git\AzureSignalrTesting\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\git\AzureSignalrTesting\obj\Debug\netcoreapp2.0\AzureSignalrTesting.AssemblyInfoInputs.cache
+D:\git\AzureSignalrTesting\obj\Debug\netcoreapp2.0\AzureSignalrTesting.AssemblyInfo.cs
+D:\git\AzureSignalrTesting\obj\Debug\netcoreapp2.0\AzureSignalrTesting.dll
+D:\git\AzureSignalrTesting\obj\Debug\netcoreapp2.0\AzureSignalrTesting.pdb
